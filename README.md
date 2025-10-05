@@ -46,4 +46,5 @@ npm start
 
  Live Demo
 - GitHub Pages: [https://healthte.github.io/markdown-editor/](https://healthte.github.io/markdown-editor/)
+- Netlify: [https://markdown-editor-healthte.netlify.app](https://markdown-editor-healthte.netlify.app)
 
