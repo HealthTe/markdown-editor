@@ -32,15 +32,15 @@ Tech Stack
 --- Installation
 
 ```bash
-# Clone the repository
+Clone the repository
 git clone https://github.com/HealthTe/markdown-editor.git
 
-# Navigate into the folder
+Navigate into the folder
 cd markdown-editor
 
-# Install dependencies
+Install dependencies
 npm install
 
-# Run locally
+ Run locally
 npm start
 
